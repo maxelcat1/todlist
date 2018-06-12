@@ -1,0 +1,25 @@
+.done {
+	text-decoration: line-through;
+}
+
+h1 {
+	color: blue;
+}
+
+body, ul {
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+}
+
+li {
+	line-height: 2em;
+	font-size: 16px;
+}
+
+.hideme {
+	display: none;
+}
+
+li  button {
+	margin-left: 20px;
+}
